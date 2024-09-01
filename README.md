@@ -1,4 +1,4 @@
-# Olá, Sou o Nicholas! 👋
+# Olá, Sou o Nicholas! ![Waving Hand](https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/master/hi.gif)
 
 <br>
 
