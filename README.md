@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## Minhas Contribuições
 
-![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark)
+![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=NicholasSC08&theme=dark)
