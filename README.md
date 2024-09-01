@@ -76,6 +76,13 @@ class SobreMim extends Desenvolvedor {
 
 <br>
 
+## ✨ Competências
+
+<ul>
+  <li>🎨 Designer Gráfico</li>
+  <li>🖥 Desenvolvedor WEB - ( Básico )</li>
+</ul>
+
 ## 💎 Experiências no Mercado de Trabalho
 
 <br>
