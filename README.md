@@ -84,6 +84,7 @@ class SobreMim extends Desenvolvedor {
 [**Designer Gráfico**](https://www.linkedin.com/company/sonho-digital-seo/posts/?feedView=all) \
 Sonho Digital SEO \
 ago de 2023 - jan de 2024 · 6 messes \
+
 Serviços: `Designer Gráfico`
 <br>
 
