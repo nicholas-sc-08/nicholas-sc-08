@@ -110,6 +110,7 @@ Serviços: `Designer Gráfico`
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark)
 
 ![snake gif](https://github.com/nicholas-sc-08/nicholas-sc-08/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/nicholas-sc-08/nicholas-sc-08/blob/output/github-contribution-grid-snake2.svg)
 
 ##
 
