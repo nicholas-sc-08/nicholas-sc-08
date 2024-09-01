@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨‍💻Perfil
+# 👨‍💻Perfil
 
 ```js
 import Desenvolvedor from 'Nicholas';
@@ -26,6 +26,8 @@ class SobreMim extends Desenvolvedor {
   pronomes = 'ele / dele';
 }
 ```
+
+
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
