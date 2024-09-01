@@ -67,6 +67,7 @@ class SobreMim extends Desenvolvedor {
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=black)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=black)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ## 📊 Estatus do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
