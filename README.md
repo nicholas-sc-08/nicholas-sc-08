@@ -58,6 +58,8 @@ class SobreMim extends Desenvolvedor {
 
 ## 🛠 Ferramentas de Trabalho
 
+<br>
+
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
 ![BeHance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=black)
@@ -70,9 +72,11 @@ class SobreMim extends Desenvolvedor {
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=black)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![]()
 
 ## 📊 Estatus do GitHub
+
+<br>
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
 <br>
