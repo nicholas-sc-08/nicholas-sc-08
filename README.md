@@ -60,6 +60,9 @@ class SobreMim extends Desenvolvedor {
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
+![BeHance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
 
 ## 📊 Estatus do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
