@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-sc-08&layout=compact)](https://github.com/nicholas-sc-08/github-readme-stats)
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
