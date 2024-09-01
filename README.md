@@ -113,6 +113,8 @@ Serviços: `Designer Gráfico`
 
 ##
 
+<br>
+
  <div>
   <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/gifs/animated_image.gif"/>
 </div>
