@@ -1,5 +1,5 @@
-# Olá, Sou o Nicholas! ![Waving Hand](https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/master/hi.gif)
-
+# Olá, Sou o Nicholas!
+![Waving Hand](https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/master/hi.gif)
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)
