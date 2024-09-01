@@ -62,5 +62,4 @@ class SobreMim extends Desenvolvedor {
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
 <br>
 <br>
-<br>
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark)
