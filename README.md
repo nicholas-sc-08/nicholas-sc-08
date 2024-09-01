@@ -111,6 +111,8 @@ Serviços: `Designer Gráfico`
 
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
 
+##
+
  <div>
   <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/gifs/animated_image.gif"/>
 </div>
