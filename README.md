@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)
 [![GitHub followers](https://img.shields.io/github/followers/nicholas-sc-08?label=Follow&style=social)](https://github.com/nicholas-sc-08)
 ![profile-views](https://komarev.com/ghpvc/?username=nicholas-sc-08&color=blue)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%8F;Futuro+Full-Stack+Developer!+%F0%9F%91%BE)](https://git.io/typing-svg)
 <!--
 **NicholasSC08/NicholasSC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
