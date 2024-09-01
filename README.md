@@ -1,5 +1,7 @@
 ## Olá, Sou o Nicholas! 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)
+[![GitHub followers](https://img.shields.io/github/followers/nicholas-sc-08?label=Follow&style=social)](https://github.com/nicholas-sc-08)
 <!--
 **NicholasSC08/NicholasSC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +28,9 @@ class SobreMim extends Desenvolvedor {
   pronomes = 'ele / dele';
 }
 ```
+
+## ⚙ Linguagens
+
 
 
 
