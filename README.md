@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-sc-08&layout=pie&langs_count=16&theme=dark)
-
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
