@@ -47,7 +47,6 @@ class SobreMim extends Desenvolvedor {
 
 <br>
 
-![Git]
 ## ⚙ Linguagens
 
 <br>
@@ -58,6 +57,8 @@ class SobreMim extends Desenvolvedor {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 <br>
+
+## 🛠 Ferramentas de Trabalho
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
