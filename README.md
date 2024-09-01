@@ -33,6 +33,7 @@ class SobreMim extends Desenvolvedor {
   pronomes = 'ele / dele';
 }
 ```
+<br>
 
 <ul>
   <li>💻 Atualmente cursando curso de Desenvolvimento de Sistemas SENAI.</li>
@@ -43,6 +44,8 @@ class SobreMim extends Desenvolvedor {
   <li>💪 Gosto de ir para academia, sastfatório e divertido!</li>
   <li>😴 Se não me ver fazendo nenhum dos itens acima, provavelmente vou estar dormindo.</li>
 </ul>
+
+<br>
 
 ## ⚙ Linguagens
 
