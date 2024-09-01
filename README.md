@@ -36,11 +36,14 @@ class SobreMim extends Desenvolvedor {
 
 ## ⚙ Linguagens
 
+<br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
+<br>
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
