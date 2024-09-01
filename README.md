@@ -83,6 +83,8 @@ class SobreMim extends Desenvolvedor {
   <li>🖥 Desenvolvedor WEB - ( Básico )</li>
 </ul>
 
+<br>
+
 ## 💎 Experiências no Mercado de Trabalho
 
 <br>
