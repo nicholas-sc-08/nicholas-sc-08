@@ -61,4 +61,6 @@ class SobreMim extends Desenvolvedor {
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
 <br>
+<br>
+<br>
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark)
