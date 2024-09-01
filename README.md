@@ -34,13 +34,15 @@ class SobreMim extends Desenvolvedor {
 }
 ```
 
-• 💻 Atualmente cursando curso de Desenvolvimento de Sistemas SENAI.
-• ♟ Gosto de jogar Xadrez quando não possuo nada para fazer.
-• 🏆 Meta de ser um Desenvolvedor Full Stack / Full Stack Developer.
-• 🎧 Gosto de ouvir música enquanto programo, acho muito divertido!
-• 📙 Acho bem legal estudar/práticar matemática, física e programação.
-• 💪 Gosto de ir para academia, sastfatório e divertido!
-• 😴 Se não me ver fazendo nenhum dos itens acima, provavelmente vou estar dormindo.
+<ul>
+  <li>💻 Atualmente cursando curso de Desenvolvimento de Sistemas SENAI.</li>
+  <li>♟ Gosto de jogar Xadrez quando não possuo nada para fazer.</li>
+  <li>🏆 Meta de ser um Desenvolvedor Full Stack / Full Stack Developer.</li>
+  <li>🎧 Gosto de ouvir música enquanto programo, acho muito divertido!</li>
+  <li>📙 Acho bem legal estudar/práticar matemática, física e programação.</li>
+  <li>💪 Gosto de ir para academia, sastfatório e divertido!</li>
+  <li>😴 Se não me ver fazendo nenhum dos itens acima, provavelmente vou estar dormindo.</li>
+</ul>
 
 ## ⚙ Linguagens
 
