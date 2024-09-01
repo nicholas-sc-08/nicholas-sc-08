@@ -78,7 +78,7 @@ class SobreMim extends Desenvolvedor {
 
 ## 💎 Experiências no Mercado de Trabalho
 
-[<img align="left" height="50px" width="50px" alt="Sonho Digital" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/L1%20Sonho%20Digital%20-%20Sem%20Escrita.png"/>](https://sonhodigital.com.br/)
+[<img align="left" height="50px" width="100px" alt="Sonho Digital" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/L1%20Sonho%20Digital%20-%20Sem%20Escrita.png"/>](https://sonhodigital.com.br/)
 
 [**Designer Gráfico**](https://www.linkedin.com/company/sonho-digital-seo/posts/?feedView=all) \
 Sonho Digital SEO\
