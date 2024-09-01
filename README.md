@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 ![snake gif](https://github.com/nicholas-sc-08/NicholasSC08/blob/output/github-contribution-grid-snake.svg)
