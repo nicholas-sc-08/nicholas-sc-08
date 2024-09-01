@@ -47,7 +47,7 @@ class SobreMim extends Desenvolvedor {
 
 <br>
 
-## ⚙ Linguagens
+## ⚙ Linguagens & Biblioteca
 
 <br>
 
