@@ -111,7 +111,7 @@ Serviços: `Designer Gráfico`
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark)
 ![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark)
 
-![Snake animation](https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/snake.svg" alt="Snake animation" />
 
 ##
 
