@@ -1,6 +1,5 @@
 # Olá, Sou o Nicholas! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
- <img align="center" alt="Dino game" width="1000px" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/gifs/dino_game_image.gif"/>
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)](https://www.linkedin.com/in/nicholas-carvalho-2b73a5297/)
@@ -8,6 +7,8 @@
 ![profile-views](https://komarev.com/ghpvc/?username=nicholas-sc-08&color=blue)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%8F;Futuro+Full-Stack+Developer!+%F0%9F%91%BE)](https://git.io/typing-svg)
+
+ <img align="center" alt="Dino game" width="1000px" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/gifs/dino_game_image.gif"/>
 <!--
 **NicholasSC08/NicholasSC08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
