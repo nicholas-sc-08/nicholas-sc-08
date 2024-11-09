@@ -34,7 +34,6 @@ class SobreMim extends Desenvolvedor {
   nome     = 'Nicholas Serencovich Carvalho';
   trabalho  = 'Estudante SENAI';
   local = 'Florianópolis, SC';
-  pronomes = 'ele / dele';
 }
 ```
 <br>
