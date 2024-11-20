@@ -75,7 +75,7 @@ class SobreMim extends Desenvolvedor {
 
 <ul>
   <li>🎨 Designer Gráfico</li>
-  <li>🖥 Desenvolvedor WEB - ( Básico )</li>
+  <li>🖥 Desenvolvedor WEB</li>
 </ul>
 
 <br>
