@@ -47,6 +47,7 @@ class SobreMim extends Desenvolvedor {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postegree](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F5F5F5?style=for-the-badge&logo=python&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <br>
 
