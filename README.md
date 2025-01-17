@@ -8,7 +8,7 @@
 
 <div align="right">
 
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/AnaProgramando/blob/main/README-us.md)</kbd>
+#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](d)</kbd>
 
 </div>
 
