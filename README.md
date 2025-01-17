@@ -14,7 +14,7 @@
 
 <div align="right">
 
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/USA_icon_nicholas-sc-08.svg" width="22px">](d)</kbd>
+#### Profile in English: <kbd>[<img title="English" alt="English" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/USA_icon_nicholas-sc-08.svg" width="50px">](d)</kbd>
 
 </div>
 
