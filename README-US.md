@@ -22,7 +22,7 @@
 
 ```js
 import Developer from 'Nicholas';
-class About extends Developer {
+class AboutMe extends Developer {
   name     = 'Nicholas Serencovich Carvalho';
   work  = 'Student SENAI';
   location = 'Florianópolis, SC';
