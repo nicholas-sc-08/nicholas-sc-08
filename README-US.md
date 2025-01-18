@@ -14,7 +14,7 @@
 
 <div align="right">
 
-#### Perfil em Português: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">]()</kbd>
+#### Perfil em Português: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](https://github.com/nicholas-sc-08)</kbd>
 
 </div>
 
