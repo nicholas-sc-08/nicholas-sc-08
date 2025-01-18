@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%8F;Futuro+Full-Stack+Developer!+%F0%9F%91%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%89;Futuro+Full-Stack+Developer+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 ## 👨‍💻 Perfil
 
