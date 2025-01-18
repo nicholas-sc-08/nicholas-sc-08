@@ -10,12 +10,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%98%89;Futuro+Full-Stack+Developer+%F0%9F%91%BE)](https://git.io/typing-svg)
 
+<div>
+  
 ## 👨‍💻 Perfil
 
-<div align="right">
-
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/README-US.md)</kbd>
-
+  <div align="right">
+  
+  #### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/README-US.md)</kbd>
+  
+  </div>
 </div>
 
 <br>
