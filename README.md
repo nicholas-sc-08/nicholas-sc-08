@@ -89,6 +89,9 @@ class SobreMim extends Desenvolvedor {
 <ul>
   <li>🖼 Desenvolvedor Front End</li>
   <li>🧩 Desenvolvedor Back End</li>
+  <li>🎨 Design Gráfico</li>
+  <li>📅 Microsoft Excel (Básico)</li>
+  <li>📄 Microsoft Word (Básico)</li>
   
 </ul>
 
