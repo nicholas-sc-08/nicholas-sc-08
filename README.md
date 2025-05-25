@@ -37,6 +37,7 @@ class SobreMim extends Desenvolvedor {
   <li>🎧 Gosto de ouvir música enquanto programo, acho muito divertido!</li>
   <li>📙 Acho bem legal estudar/práticar matemática, física e programação!</li>
   <li>💪 Gosto de ir para academia, satsfatório e divertido!</li>
+  <li>🧩 Começando a utilizar Java em projetos backend</li>
 </ul>
 
 <br>
