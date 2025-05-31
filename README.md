@@ -42,7 +42,7 @@ public class readme{
 
   public static void main(String[] args){
 
-    JOptionPane.showMessageDialog(null, "Nome: " + Nicholas.nome + " Trabalho: " + Nicholas.trabalho + " Local: " + Nicholas.local);
+    System.out.println("Nome: " + Nicholas.nome + " Trabalho: " + Nicholas.trabalho + " Local: " + Nicholas.local);
   };
 }
 
