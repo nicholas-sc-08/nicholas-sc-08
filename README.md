@@ -21,17 +21,28 @@
 <br>
 
 ```java
-import javax.swing.JOptionPane;
 
-public class nicholas-sc-08{
-
-  public static void main(String[] args){
+public class Nicholas{
 
     String nome = "Nicholas Serencovich Carvalho";
     String trabalho = "Estudante SENAI";
     String local = "Florianopolis - SC";
 
-    JOptionPane.showMessageDialog(null, "Nome: " + nome + " Trabalho: " + trabalho + " Local: " + local);
+  public Nicholas{
+
+    this.nome = nome;
+    this.email = email;
+    this.local = local;
+  }
+}
+```
+```java
+
+public class readme{
+
+  public static void main(String[] args){
+
+    JOptionPane.showMessageDialog(null, "Nome: " + Nicholas.nome + " Trabalho: " + Nicholas.trabalho + " Local: " + Nicholas.local);
   };
 }
 
