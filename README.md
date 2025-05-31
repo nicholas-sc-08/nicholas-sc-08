@@ -33,7 +33,7 @@ public class Nicholas{
     this.nome = nome;
     this.email = email;
     this.local = local;
-  }
+  };
 }
 ```
 ```java
