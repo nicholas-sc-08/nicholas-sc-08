@@ -24,16 +24,16 @@
 
 public class Nicholas{
 
-    String nome = "Nicholas Serencovich Carvalho";
-    String trabalho = "Estudante SENAI";
-    String local = "Florianopolis - SC";
+    String name = "Nicholas Serencovich Carvalho";
+    String work = "Student SENAI";
+    String location = "Florianopolis - SC";
 
   public Nicholas{
 
-    this.nome = nome;
-    this.email = email;
-    this.local = local;
-  }
+    this.name = name;
+    this.work = work;
+    this.location = location;
+  };
 }
 ```
 ```java
@@ -42,7 +42,7 @@ public class readme{
 
   public static void main(String[] args){
 
-    System.out.println("Nome: " + Nicholas.nome + " Trabalho: " + Nicholas.trabalho + " Local: " + Nicholas.local);
+    System.out.println("Name: " + Nicholas.name + " Work: " + Nicholas.work + " Location: " + Nicholas.location);
   };
 }
 
