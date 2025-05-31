@@ -31,7 +31,7 @@ public class Nicholas{
   public Nicholas{
 
     this.nome = nome;
-    this.email = email;
+    this.trabalho = trabalho;
     this.local = local;
   };
 }
