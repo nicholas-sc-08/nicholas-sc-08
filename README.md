@@ -20,13 +20,21 @@
 
 <br>
 
-```js
-import Desenvolvedor from 'Nicholas';
-class SobreMim extends Desenvolvedor {
-  nome     = 'Nicholas Serencovich Carvalho';
-  trabalho  = 'Estudante SENAI';
-  local = 'Florianópolis, SC';
+```java
+import javax.swing.JOptionPane;
+
+public class nicholas-sc-08{
+
+  public static void main(String[] args){
+
+    String nome = "Nicholas Serencovich Carvalho";
+    String trabalho = "Estudante SENAI";
+    String local = "Florianopolis - SC";
+
+    JOptionPane.showMessageDialog(null, "Nome: " + nome + " Trabalho: " + trabalho + " Local: " + local);
+  };
 }
+
 ```
 <br>
 
