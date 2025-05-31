@@ -20,13 +20,32 @@
 
 <br>
 
-```js
-import Developer from 'Nicholas';
-class AboutMe extends Developer {
-  name     = 'Nicholas Serencovich Carvalho';
-  work  = 'Student SENAI';
-  location = 'Florianópolis, SC';
+```java
+
+public class Nicholas{
+
+    String nome = "Nicholas Serencovich Carvalho";
+    String trabalho = "Estudante SENAI";
+    String local = "Florianopolis - SC";
+
+  public Nicholas{
+
+    this.nome = nome;
+    this.email = email;
+    this.local = local;
+  }
 }
+```
+```java
+
+public class readme{
+
+  public static void main(String[] args){
+
+    System.out.println("Nome: " + Nicholas.nome + " Trabalho: " + Nicholas.trabalho + " Local: " + Nicholas.local);
+  };
+}
+
 ```
 <br>
 
