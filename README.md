@@ -141,8 +141,8 @@ Serviços: `Designer Gráfico`
 <br>
 
 <div display="flex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark&cache_seconds=3600" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark&cache_seconds=3600" />
 </div>
 
 <img src="https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/snake.svg" alt="Snake animation" />
