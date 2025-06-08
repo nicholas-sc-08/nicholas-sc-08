@@ -56,7 +56,8 @@ public class readme{
   <li>🎧 I like listening to music while I program, I find it very fun!</li>
   <li>📙 I think it's really cool to study/practice math, physics and programming!</li>
   <li>💪 I like going to the gym, it's satisfying and fun!</li>
-  <li>🧩 Getting started with Java in backend projects</li>
+  <li>🧩 Getting started with Java in backend projects.</li>
+  <li>📚 Learning Java remotly!</li>
   
 </ul>
 
