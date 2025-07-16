@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/nicholas-sc-08?label=Follow&style=social)](https://github.com/nicholas-sc-08)
 ![profile-views](https://komarev.com/ghpvc/?username=nicholas-sc-08&color=orange)
 
-<br> 
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9104E6&width=435&lines=Seja+bem-vindo(a)+ao+meu+perfil!+;Sou+um+Full+Stack+Developer!+%F0%9F%91%BE)](https://git.io/typing-svg)
 
