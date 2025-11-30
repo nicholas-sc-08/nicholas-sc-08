@@ -67,23 +67,11 @@ public class readme{
 ## ⚙ Tecnologias Utilizadas
 
 <br>
-
-### 🌐 Linguagens de Programação
 ![Skill Icons](https://skillicons.dev/icons?i=java,python,js,ts,html,css)
-
-### 💻 Frontend & UI
 ![Skill Icons](https://skillicons.dev/icons?i=tailwind,react,nextjs)
-
-### 🛠️ Backend & Runtime
 ![Skill Icons](https://skillicons.dev/icons?i=nodejs,express,fastify)
-
-### 🗄️ Banco de Dados & ORMs
 ![Skill Icons](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)
-
-### ☁️ Cloud & DevOps (Em Estudo)
 ![Skill Icons](https://skillicons.dev/icons?i=docker,aws)
-
-### ⚙️ Ferramentas & Utilities
 ![Skill Icons](https://skillicons.dev/icons?i=npm,pnpm,axios,jwt,socketio)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
