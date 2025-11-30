@@ -68,6 +68,7 @@ public class readme{
 
 <br>
 
+![Skill Icons](https://skillicons.dev/icons?i=nodejs,express,fastify)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-F5F5F5?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
