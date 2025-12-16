@@ -66,7 +66,7 @@ public class readme{
 
 ## ⚙ Tecnologias Utilizadas
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mysql,postgres,mongodb,prisma,docker,aws,npm,pnpm)
+![Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mysql,postgres,mongodb,prisma,docker,aws,npm,pnpm)
 
 <br>
 
