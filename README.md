@@ -49,18 +49,6 @@ public class readme{
 }
 
 ```
-<br>
-
-<ul>
-  <li>💻 Atualmente estou no ultimo ano do curso de Desenvolvimento de Sistemas SENAI.</li>
-  <li>♟ Gosto de jogar Xadrez quando não possuo nada para fazer.</li>
-  <li>🏆 Full Stack Developer.</li>
-  <li>🎧 Gosto de ouvir música enquanto programo, acho muito divertido!</li>
-  <li>📙 Acho bem legal estudar/práticar matemática, física e programação!</li>
-  <li>💪 Gosto de ir para academia, satsfatório e divertido!</li>
-  <li>🧩 Começando a utilizar Java em projetos backend.</li>
-  <li>📚 Aprendendo Java remotamente!</li>
-</ul>
 
 <br>
 
