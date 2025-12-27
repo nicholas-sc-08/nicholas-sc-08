@@ -49,20 +49,6 @@ public class readme{
 ```
 <br>
 
-<ul>
-  <li>💻 Currently studying SENAI Systems Development course.</li>
-  <li>♟ I like to play Chess when I have nothing to do.</li>
-  <li>🏆 Goal of being a Full Stack Developer.</li>
-  <li>🎧 I like listening to music while I program, I find it very fun!</li>
-  <li>📙 I think it's really cool to study/practice math, physics and programming!</li>
-  <li>💪 I like going to the gym, it's satisfying and fun!</li>
-  <li>🧩 Getting started with Java in backend projects.</li>
-  <li>📚 Learning Java remotly!</li>
-  
-</ul>
-
-<br>
-
 ## ⚙ Technologies Used
 
 ![Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,python,django,mysql,postgres,mongodb,prisma,docker,aws,npm,pnpm)
