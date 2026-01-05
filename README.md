@@ -75,7 +75,6 @@ Serviços: `Designer Gráfico`
 <br>
 
 <div display="flex">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08)](https://github.com/nicholas-sc-08/github-readme-stats)
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark&cache_seconds=3600" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark&cache_seconds=3600" />
 </div>
