@@ -25,7 +25,7 @@
 public class Nicholas{
 
     String name = "Nicholas Serencovich Carvalho";
-    String work = "Student SENAI";
+    String work = "N/A";
     String location = "Florianopolis - SC";
 
   public Nicholas{
@@ -51,7 +51,7 @@ public class readme{
 
 ## ⚙ Technologies Used
 
-![Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,python,django,mysql,postgres,mongodb,prisma,docker,aws,npm,pnpm)
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,python,django,mysql,postgres,mongodb,prisma,docker,npm,pnpm)
 
 <br>
 
