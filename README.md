@@ -54,7 +54,7 @@ public class readme{
 
 ## ⚙ Tecnologias Utilizadas
 
-![Skills](https://skillicons.dev/icons?i=java,spring,jakarta,hibernate,maven,postgres,mysql,docker,js,ts,react,nextjs,nodejs,nestjs,express,html,css,tailwind,prisma,mongodb,npm,pnpm,tomcat)
+![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,js,ts,react,nextjs,nodejs,nestjs,express,html,css,tailwind,prisma,mongodb,npm,pnpm)
 
 <br>
 
