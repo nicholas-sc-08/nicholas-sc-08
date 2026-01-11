@@ -23,28 +23,27 @@
 
 ```java
 
-public class Nicholas{
+  public class Nicholas {
 
-    String nome = "Nicholas Serencovich Carvalho";
-    String trabalho = "N/A";
-    String local = "Florianopolis - SC";
+    private final String nome = "Nicholas Serencovich Carvalho";
+    private final String local = "FLorianópolis - SC";
+    private String trabalhoAtual = "Aberto para oportunidades";
+    private List<String> stack = List.of("Java", "Spring Boot", "Maven", "Hibernate", "PostgreSQL");
 
-  public Nicholas{
-
-    this.nome = nome;
-    this.trabalho = trabalho;
-    this.local = local;
-  };
-}
+    public void visualizarPerfil() {
+      System.out.println("Nome Completo: " + this.name);
+      System.out.println("Local: " + this.location);
+      System.out.println("Tecnologias: " + String.join(", ", this.stack));
+    }
+  }
 ```
 
 ```java
 
-public class readme{
-
+public class Main{
   public static void main(String[] args){
-
-    System.out.println("Nome: " + Nicholas.nome + " Trabalho: " + Nicholas.trabalho + " Local: " + Nicholas.local);
+    Nicholas eu = new Nicholas();
+    eu.visualizarPerfil();
   };
 }
 
@@ -54,7 +53,7 @@ public class readme{
 
 ## ⚙ Tecnologias Utilizadas
 
-![Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mysql,postgres,mongodb,prisma,docker,npm,pnpm)
+![Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mysql,postgres,mongodb,prisma,docker,pnpm)
 
 <br>
 
