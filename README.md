@@ -31,8 +31,8 @@
     private List<String> stack = List.of("Java", "Spring Boot", "Maven", "Hibernate", "PostgreSQL");
 
     public void visualizarPerfil() {
-      System.out.println("Nome Completo: " + this.name);
-      System.out.println("Local: " + this.location);
+      System.out.println("Nome Completo: " + this.nome);
+      System.out.println("Local: " + this.local);
       System.out.println("Tecnologias: " + String.join(", ", this.stack));
     }
   }
