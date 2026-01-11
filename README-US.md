@@ -22,31 +22,32 @@
 
 ```java
 
-public class Nicholas{
+  public class Nicholas {
 
-    String name = "Nicholas Serencovich Carvalho";
-    String work = "N/A";
-    String location = "Florianopolis - SC";
+    private final String name = "Nicholas Serencovich Carvalho";
+    private final String location = "FLorianópolis - SC";
+    private String currentWork = "Open to oportunities";
+    private List<String> stack = List.of("Java", "Spring Boot", "Maven", "Hibernate", "PostgreSQL");
 
-  public Nicholas{
-
-    this.name = name;
-    this.work = work;
-    this.location = location;
-  };
-}
+    public void showProfile() {
+      System.out.println("Full Name: " + this.name);
+      System.out.println("Location: " + this.location);
+      System.out.println("Tecnologies: " + String.join(", ", this.stack));
+    }
+  }
 ```
+
 ```java
 
-public class readme{
-
+public class Main{
   public static void main(String[] args){
-
-    System.out.println("Name: " + Nicholas.name + " Work: " + Nicholas.work + " Location: " + Nicholas.location);
+    Nicholas me = new Nicholas();
+    me.visualizarPerfil();
   };
 }
 
 ```
+
 <br>
 
 ## ⚙ Technologies Used
