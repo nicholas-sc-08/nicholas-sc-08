@@ -72,7 +72,7 @@ Serviços: `Designer Gráfico`
 ## 📊 Estatus do GitHub
 
 <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/snake.svg" alt="Snake animation" />
 
 ##
