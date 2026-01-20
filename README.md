@@ -74,7 +74,7 @@ Serviços: `Designer Gráfico`
   <a href="https://github.com/nicholas-sc-08">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-sc-08&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark" />
 </div>
 <br>
 <img src="https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/snake.svg" alt="Snake animation" />
