@@ -70,7 +70,11 @@ Serviços: `Designer Gráfico`
 <br>
 
 ## 📊 Estatus do GitHub
-
+<div align="left" >
+  <a href="https://github.com/nicholas-sc-08">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-sc-08&layout=compact&langs_count=7&theme=holi"/>
+</div>
 <br>
 <img src="https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/snake.svg" alt="Snake animation" />
 
