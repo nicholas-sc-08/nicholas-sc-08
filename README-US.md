@@ -69,12 +69,9 @@ Services: `Grafic Designer`
 <br>
 
 ## 📊 GitHub Status
-
-<br>
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark&cache_seconds=3600)
-![Contribuições no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=nicholas-sc-08&theme=dark&cache_seconds=3600)
-
+<div align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</div>
 <img src="https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/snake.svg" alt="Snake animation" />
 
 ##
