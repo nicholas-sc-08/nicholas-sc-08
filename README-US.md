@@ -52,7 +52,7 @@ public class Main{
 
 ## ⚙ Technologies Used
 
-![Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,ts,html,css,tailwind,react,nextjs,redux,mui,jest,nodejs,express,nestjs,mysql,postgres,mongodb,prisma,docker,pnpm)
+![Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,ts,html,css,tailwind,react,nextjs,redux,mui,jest,nodejs,express,nestjs,mysql,postgres,mongodb,prisma,docker,kubernetes,pnpm)
 
 <br>
 
