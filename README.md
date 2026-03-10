@@ -26,6 +26,7 @@
 
     private final String nome = "Nicholas Serencovich Carvalho";
     private final String local = "FLorianópolis - SC";
+    private Integer idade = 18;
     private String trabalhoAtual = "Aberto para oportunidades";
     private List<String> stack = List.of("Java", "Spring Boot", "Maven", "Hibernate", "PostgreSQL");
 
@@ -50,9 +51,19 @@ public class Main{
 
 <br>
 
-## ⚙ Tecnologias Utilizadas
+### ⚙ Tecnologias Utilizadas
 
-![Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,js,ts,html,css,tailwind,react,nextjs,redux,mui,jest,nodejs,express,nestjs,mysql,postgres,mongodb,prisma,docker,kubernetes,pnpm,git,postman)
+**Linguagens e Base**
+<br/>
+![Languages](https://skillicons.dev/icons?i=java,c,ts,js,html,css)
+
+**Frameworks e Ambientes**
+<br/>
+![Frameworks](https://skillicons.dev/icons?i=spring,nestjs,nextjs,react,express,nodejs,hibernate,maven)
+
+**Infra, Bancos e Outros**
+<br/>
+![Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,kubernetes,git,postman,jest,redux,mui,tailwind,pnpm)
 
 <br>
 
