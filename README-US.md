@@ -83,6 +83,7 @@ Services: `Grafic Designer`
 ## 📊 GitHub Status
 <div align="left">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicholas-sc-08&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-sc-08&amp;layout=compact&amp;langs_count=8&amp;theme=dark" alt="Top langs"/>
 </div>
 <img src="https://raw.githubusercontent.com/nicholas-sc-08/nicholas-sc-08/output/snake.svg" alt="Snake animation" />
 
