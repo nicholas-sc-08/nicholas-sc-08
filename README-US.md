@@ -63,8 +63,7 @@ public class Main{
 
 **Infra, Database & Others**
 <br/>
-![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,kubernetes,git,postman,jest,redux,mui,tailwind,pnpm)
-
+![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,git,postman,redux,tailwind,pnpm)
 
 <br>
 
