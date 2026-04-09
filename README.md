@@ -54,7 +54,7 @@ public class Main{
 
 **Linguagens e Base**
 <br/>
-![Languages](https://skillicons.dev/icons?i=java,c,ts,js,html,css)
+![Languages](https://skillicons.dev/icons?i=java,ts,js,html,css)
 
 **Frameworks e Ambientes**
 <br/>
@@ -62,7 +62,7 @@ public class Main{
 
 **Infra, Bancos e Outros**
 <br/>
-![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,kubernetes,git,postman,jest,redux,mui,tailwind,pnpm)
+![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,git,postman,redux,tailwind,pnpm)
 
 <br>
 
