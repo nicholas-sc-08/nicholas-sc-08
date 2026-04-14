@@ -20,30 +20,30 @@
 <br>
 
 ```java
+@RestController
+@RequestMapping("/v1/dev")
+public class NicholasController {
 
-  public class Nicholas {
-
-    private final String nome = "Nicholas Serencovich Carvalho";
-    private final String local = "FLorianópolis - SC";
-    private Integer idade = 18;
-    private String trabalhoAtual = "Aberto para oportunidades";
-    private List<String> stack = List.of("Java", "Spring Boot", "Maven", "Hibernate", "PostgreSQL");
-
-    public void visualizarPerfil() {
-      System.out.println("Nome Completo: " + this.nome);
-      System.out.println("Local: " + this.local);
-      System.out.println("Tecnologias: " + String.join(", ", this.stack));
+    @GetMapping("/profile")
+    public ResponseEntity<ProfileResponse> getProfile() {
+        return ResponseEntity.ok(ProfileResponse.builder()
+            .name("Nicholas Serencovich Carvalho")
+            .role("Full Stack Developer")
+            .specialties(List.of("Arquitetura de Sistemas (SOLID)","APIs Financeiras & Segurança","Pipelines de CI/CD","Desenvolvimento Web Moderno"))
+            .status("Open for Challenges")
+            .build());
     }
-  }
+}
+
 ```
 
 ```java
-
-public class Main{
-  public static void main(String[] args){
-    Nicholas eu = new Nicholas();
-    eu.visualizarPerfil();
-  };
+@SpringBootApplication
+public class PersonalApiApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(PersonalApiApplication.class, args);
+        System.out.println("Nicholas's Profile API is live at port 8080");
+    }
 }
 
 ```
@@ -58,11 +58,11 @@ public class Main{
 
 **Frameworks e Ambientes**
 <br/>
-![Frameworks](https://skillicons.dev/icons?i=spring,nestjs,nextjs,react,express,nodejs,hibernate,maven)
+![Frameworks](https://skillicons.dev/icons?i=spring,nestjs,nextjs,react,express,nodejs,hibernate,maven,vite)
 
 **Infra, Bancos e Outros**
 <br/>
-![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,git,postman,redux,tailwind,pnpm)
+![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,dockergithubactions,git,postman,redux,tailwind,pnpm)
 
 <br>
 
