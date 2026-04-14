@@ -46,7 +46,7 @@ public class NicholasController {
 public class PersonalApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(PersonalApiApplication.class, args);
-        System.out.println("Nicholas's Profile API is live at port 8080");
+        System.out.println("Nicholas' Profile API is live at port 8080");
     }
 }
 
