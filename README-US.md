@@ -55,7 +55,7 @@ public class Main{
 
 **Langueges & Base**
 <br/>
-![Languages](https://skillicons.dev/icons?i=java,c,ts,js,html,css)
+![Languages](https://skillicons.dev/icons?i=java,ts,js,html,css)
 
 **Frameworks & Ambients**
 <br/>
