@@ -21,32 +21,35 @@
 <br>
 
 ```java
+@RestController
+@RequestMapping("/v1/dev")
+public class NicholasController {
 
-  public class Nicholas {
-
-    private final String name = "Nicholas Serencovich Carvalho";
-    private final String location = "FLorianópolis - SC";
-    private Integer age = 18;
-    private String currentWork = "Open to oportunities";
-    private List<String> stack = List.of("Java", "Spring Boot", "Maven", "Hibernate", "PostgreSQL");
-
-    public void showProfile() {
-      System.out.println("Full Name: " + this.name);
-      System.out.println("Location: " + this.location);
-      System.out.println("Tecnologies: " + String.join(", ", this.stack));
+    @GetMapping("/profile")
+    public ResponseEntity<ProfileResponse> getProfile() {
+        return ResponseEntity.ok(ProfileResponse.builder()
+            .name("Nicholas Serencovich Carvalho")
+            .role("Full Stack Developer")
+            .specialties(List.of(
+                "System Architecture (SOLID)",
+                "Financial APIs & Security",
+                "CI/CD Pipelines (GitHub Actions)",
+                "Modern Web Development"
+            ))
+            .status("Open for Challenges")
+            .build());
     }
-  }
+}
 ```
 
 ```java
-
-public class Main{
-  public static void main(String[] args){
-    Nicholas me = new Nicholas();
-    me.visualizarPerfil();
-  };
+@SpringBootApplication
+public class PersonalApiApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(PersonalApiApplication.class, args);
+        System.out.println("Nicholas' Profile API is live at port 8080");
+    }
 }
-
 ```
 
 <br>
@@ -57,13 +60,13 @@ public class Main{
 <br/>
 ![Languages](https://skillicons.dev/icons?i=java,ts,js,html,css)
 
-**Frameworks & Ambients**
+**Frameworks & Enviroments**
 <br/>
-![Frameworks](https://skillicons.dev/icons?i=spring,nestjs,nextjs,react,express,nodejs,hibernate,maven)
+![Frameworks](https://skillicons.dev/icons?i=spring,nestjs,nextjs,react,express,nodejs,hibernate,maven,vite)
 
 **Infra, Database & Others**
 <br/>
-![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,git,postman,redux,tailwind,pnpm)
+![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,githubactions,git,postman,redux,tailwind,pnpm)
 
 <br>
 
