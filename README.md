@@ -29,7 +29,11 @@ public class NicholasController {
         return ResponseEntity.ok(ProfileResponse.builder()
             .name("Nicholas Serencovich Carvalho")
             .role("Full Stack Developer")
-            .specialties(List.of("Arquitetura de Sistemas (SOLID)","APIs Financeiras & Segurança","Pipelines de CI/CD","Desenvolvimento Web Moderno"))
+            .specialties(List.of(
+              "Arquitetura de Sistemas (SOLID)",
+              "APIs Financeiras & Segurança",
+              "Pipelines de CI/CD",
+              "Desenvolvimento Web Moderno"))
             .status("Open for Challenges")
             .build());
     }
@@ -62,7 +66,7 @@ public class PersonalApiApplication {
 
 **Infra, Bancos e Outros**
 <br/>
-![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,dockergithubactions,git,postman,redux,tailwind,pnpm)
+![Infrastructure](https://skillicons.dev/icons?i=linux,postgres,mysql,mongodb,prisma,docker,githubactions,git,postman,redux,tailwind,pnpm)
 
 <br>
 
