@@ -76,7 +76,7 @@ public class PersonalApiApplication {
 
 <br>
 
-[<img align="left" height="50px" width="100px" alt="Sonho Digital" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/keeps_logo.jpeg"/>](https://keeps.com.br/)
+[<img align="left" height="50px" width="50px" alt="Sonho Digital" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/keeps_logo.jpeg"/>](https://keeps.com.br/)
 [**Designer Gráfico**](https://www.linkedin.com/company/sonho-digital-seo/posts/?feedView=all) \
 Sonho Digital SEO 
 
