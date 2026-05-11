@@ -77,7 +77,7 @@ public class PersonalApiApplication {
 <br>
 
 [<img align="left" height="100px" width="100px" alt="Keeps" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/keeps_logo.jpeg"/>](https://keeps.com.br/)
-[**Designer Gráfico**](https://www.linkedin.com/company/sonho-digital-seo/posts/?feedView=all) \
+[**Suporte de TI**](https://www.linkedin.com/company/keeps/posts/?feedView=all) \
 Keeps 
 
 ago de 2023 - may de 2026 · até o momento \
@@ -85,7 +85,7 @@ Serviços: `Suporte de TI`
 
 <br>
 
-[<img align="left" height="50px" width="100px" alt="Sonho Digital" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/L1%20Sonho%20Digital%20-%20Sem%20Escrita.png"/>](https://sonhodigital.com.br/)
+[<img align="left" height="100px" width="100px" alt="Sonho Digital" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/L1%20Sonho%20Digital%20-%20Sem%20Escrita.png"/>](https://sonhodigital.com.br/)
 [**Designer Gráfico**](https://www.linkedin.com/company/sonho-digital-seo/posts/?feedView=all) \
 Sonho Digital SEO 
 
