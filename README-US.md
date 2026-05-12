@@ -75,11 +75,11 @@ public class PersonalApiApplication {
 <br>
 
 [<img align="left" height="100px" width="100px" alt="Keeps" src="https://github.com/nicholas-sc-08/nicholas-sc-08/blob/main/Imagens%20-%20Logos/keeps_logo.jpeg"/>](https://keeps.com.br/)
-[**Suporte de TI**](https://www.linkedin.com/company/keeps/posts/?feedView=all) \
+[**TI Support**](https://www.linkedin.com/company/keeps/posts/?feedView=all) \
 Keeps 
 
-ago de 2023 - may de 2026 · até o momento \
-Serviços: `Suporte de TI`
+ago de 2023 - may de 2026 · at moment \
+Services: `TI Support`
 
 <br>
 
