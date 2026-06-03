@@ -61,7 +61,7 @@ public class PersonalApiApplication {
 
 **Linguagens e Base**
 <br/>
-![Languages](https://skillicons.dev/icons?i=java,python,ts,js,html,css)
+![Languages](https://skillicons.dev/icons?i=java,ts,js,html,css)
 
 **Frameworks e Ambientes**
 <br/>
