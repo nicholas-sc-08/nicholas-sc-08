@@ -78,7 +78,7 @@ public class PersonalApiApplication {
 [**Analista de Suporte**](https://www.linkedin.com/company/keeps/posts/?feedView=all) \
 Keeps 
 
-ago de 2023 - may de 2026 · até o momento \
+may de 2026 · até o momento \
 Serviços: `Analista de Suporte`
 
 <br>
